@@ -9,3 +9,9 @@ Rules:
 - The interface will copy as much as it can from python 2.7 standard library so developers can intuitively use features
 - No external, additional dependencies like boost
 - Straightforward C++ - this means no "advanced" techniques that a high-school cheerleader can't read
+- No exceptions - no exceptions
+
+And goes without saying: /s
+- my code, my rules
+- ! means not
+- all files matter
